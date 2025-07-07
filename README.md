@@ -13,7 +13,6 @@ Ce projet permet de mettre en application les compétences de développeur front
 Le dossier [`notions/`](./notions/) contient des fiches pour vous aider à comprendre certains concepts importants du projet :
 
 - [`localstorage.md`](./notions/localstorage.md) : Comprendre et utiliser localStorage en JavaScript
-- [`api-js.md`](./notions/api-js.md) : Appeler une API en JavaScript et utiliser le header Bearer
 - [`import-svelte.md`](./notions/import-svelte.md) : Importer des ressources (CSS, JS, images) dans Svelte
 - [`etat-null.md`](./notions/etat-null.md) : Comprendre la valeur null et son usage dans les états Svelte
 
@@ -30,4 +29,6 @@ N'hésitez pas à les consulter si vous avez un doute ou une difficulté sur ces
 
 ## Résultat final
 
-![Résultat](./resultat.png)
+![Résultat desktop](./ochat-desktop.png)
+![Résultat mobile](./ochat-mobile.png)
+
