@@ -45,3 +45,7 @@ fetch("https://api.mistral.ai/v1/endpoint", {
 
 ---
 🎉 Voilà, tu es prêt(e) à utiliser l'API Mistral AI ! Amuse-toi bien ! 🚀
+
+---
+
+:bulb: Si vraiment tu bloques après avoir lu ce fichier et lu la doc de Mistral, on t'a préparé un petit [coup de pouce](./coup%20de%20pouce/Comprendre%20la%20doc%20d'API%20Mistral.md)
